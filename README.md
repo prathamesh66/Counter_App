@@ -1,6 +1,6 @@
 * Increment and Decrement Counter
   
-This project showcases a simple counter application built using HTML, CSS (with Tailwind CSS), and JavaScript. The application allows users to increment or decrement a numerical value by clicking on the respective buttons.
+This project showcases a simple counter application built using HTML, CSS (with Tailwind CSS), and JavaScript. The application allows users to increment or decrement a numerical value by clicking on the respective buttons..
 
 * Features
   
